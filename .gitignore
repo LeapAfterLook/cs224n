@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+#Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# Custom
+# Dataset downloaded
+glove.6B.50d.txt
